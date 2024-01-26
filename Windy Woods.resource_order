@@ -1,9 +1,9 @@
 {
   "FolderOrderSettings": [
-    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
-    {"name":"Спрайты","order":1,"path":"folders/Спрайты.yy",},
     {"name":"Marks","order":1,"path":"folders/Objects/Marks.yy",},
+    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"MARKS","order":1,"path":"folders/Sprites/MARKS.yy",},
+    {"name":"Спрайты","order":1,"path":"folders/Спрайты.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_touch_button_right","order":1,"path":"objects/obj_touch_button_right/obj_touch_button_right.yy",},
