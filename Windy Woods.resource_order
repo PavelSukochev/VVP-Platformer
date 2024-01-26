@@ -2,6 +2,8 @@
   "FolderOrderSettings": [
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Спрайты","order":1,"path":"folders/Спрайты.yy",},
+    {"name":"Marks","order":1,"path":"folders/Objects/Marks.yy",},
+    {"name":"MARKS","order":1,"path":"folders/Sprites/MARKS.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_touch_button_right","order":1,"path":"objects/obj_touch_button_right/obj_touch_button_right.yy",},
@@ -81,7 +83,7 @@
     {"name":"obj_block_brick","order":1,"path":"objects/obj_block_brick/obj_block_brick.yy",},
     {"name":"spr_block_brick_destroy","order":4,"path":"sprites/spr_block_brick_destroy/spr_block_brick_destroy.yy",},
     {"name":"spr_backtrees_2","order":2,"path":"sprites/spr_backtrees_2/spr_backtrees_2.yy",},
-    {"name":"obj_placeholder_message","order":4,"path":"objects/obj_placeholder_message/obj_placeholder_message.yy",},
+    {"name":"obj_placeholder_message_peskov","order":4,"path":"objects/obj_placeholder_message_peskov/obj_placeholder_message_peskov.yy",},
     {"name":"spr_mushroom_group_6","order":14,"path":"sprites/spr_mushroom_group_6/spr_mushroom_group_6.yy",},
     {"name":"spr_button_bg_black","order":7,"path":"sprites/spr_button_bg_black/spr_button_bg_black.yy",},
     {"name":"spr_player_idle","order":2,"path":"sprites/spr_player_idle/spr_player_idle.yy",},
@@ -108,6 +110,7 @@
     {"name":"obj_button_resume","order":1,"path":"objects/obj_button_resume/obj_button_resume.yy",},
     {"name":"spr_touch_pause","order":3,"path":"sprites/spr_touch_pause/spr_touch_pause.yy",},
     {"name":"obj_player_end_level","order":2,"path":"objects/obj_player_end_level/obj_player_end_level.yy",},
+    {"name":"o_peskov","order":3,"path":"objects/o_peskov/o_peskov.yy",},
     {"name":"spr_ground_side_leaves_right","order":3,"path":"sprites/spr_ground_side_leaves_right/spr_ground_side_leaves_right.yy",},
     {"name":"spr_player_walk","order":5,"path":"sprites/spr_player_walk/spr_player_walk.yy",},
     {"name":"spr_part_character_jump","order":1,"path":"sprites/spr_part_character_jump/spr_part_character_jump.yy",},
