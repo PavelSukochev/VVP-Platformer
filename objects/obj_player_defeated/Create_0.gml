@@ -1,6 +1,6 @@
 // Enable gravity
 gravity = 1.5;
-
+global.lvl-=1;
 // Make the instance jump up
 vspeed = -40;
 
