@@ -116,6 +116,7 @@
     {"id":{"name":"obj_effect_knockback","path":"objects/obj_effect_knockback/obj_effect_knockback.yy",},},
     {"id":{"name":"obj_hud_hearts","path":"objects/obj_hud_hearts/obj_hud_hearts.yy",},},
     {"id":{"name":"spr_backtrees_3","path":"sprites/spr_backtrees_3/spr_backtrees_3.yy",},},
+    {"id":{"name":"obj_end_gate_empty","path":"objects/obj_end_gate_empty/obj_end_gate_empty.yy",},},
     {"id":{"name":"spr_block_coins_hit_animation","path":"sprites/spr_block_coins_hit_animation/spr_block_coins_hit_animation.yy",},},
     {"id":{"name":"s_logo_001","path":"sprites/s_logo_001/s_logo_001.yy",},},
     {"id":{"name":"snd_amb_cave_01","path":"sounds/snd_amb_cave_01/snd_amb_cave_01.yy",},},
