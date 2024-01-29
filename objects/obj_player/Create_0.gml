@@ -10,4 +10,4 @@ in_knockback = false;
 // This is the object that replaces the player once it is defeated.
 defeated_object = obj_player_defeated;
 
-instance_create_layer(x,y,"Instances",o_lvl_is_txt)
+instance_create_layer(obj_player.x,obj_player.y-270,"Instances",o_lvl_is_txt)
