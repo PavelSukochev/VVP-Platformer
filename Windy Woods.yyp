@@ -62,11 +62,11 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player","folderPath":"folders/Sprites/Player.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Set Sprites","folderPath":"folders/Sprites/Tile Set Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"UI","folderPath":"folders/Sprites/UI.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"s_txt_controll","folderPath":"folders/Sprites/UI/s_txt_controll.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Touch Controls","folderPath":"folders/Sprites/UI/Touch Controls.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"VFX","folderPath":"folders/Sprites/VFX.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Спрайты","folderPath":"folders/Спрайты.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"s_txt_controll","folderPath":"folders/Sprites/UI/s_txt_controll.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Visitor Rus.ttf","CopyToMask":-1,"filePath":"datafiles",},
