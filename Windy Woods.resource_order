@@ -97,7 +97,7 @@
     {"name":"obj_gamepad_input","order":1,"path":"objects/obj_gamepad_input/obj_gamepad_input.yy",},
     {"name":"obj_txt_controll","order":5,"path":"objects/obj_txt_controll/obj_txt_controll.yy",},
     {"name":"obj_touch_button_pause","order":4,"path":"objects/obj_touch_button_pause/obj_touch_button_pause.yy",},
-    {"name":"rm_level_1_txt","order":1,"path":"rooms/rm_level_1_txt/rm_level_1_txt.yy",},
+    {"name":"rm_level_0_txt","order":1,"path":"rooms/rm_level_0_txt/rm_level_0_txt.yy",},
     {"name":"src_init","order":1,"path":"scripts/src_init/src_init.yy",},
     {"name":"spr_hud_background","order":3,"path":"sprites/spr_hud_background/spr_hud_background.yy",},
     {"name":"ft_hud","order":1,"path":"fonts/ft_hud/ft_hud.yy",},
