@@ -37,6 +37,7 @@
     {"name":"obj_button_quit","order":1,"path":"objects/obj_button_quit/obj_button_quit.yy",},
     {"name":"spr_ground_bottom_moss_right","order":1,"path":"sprites/spr_ground_bottom_moss_right/spr_ground_bottom_moss_right.yy",},
     {"name":"snd_amb_trees","order":2,"path":"sounds/snd_amb_trees/snd_amb_trees.yy",},
+    {"name":"spr_backtrees_3","order":5,"path":"sprites/spr_backtrees_3/spr_backtrees_3.yy",},
     {"name":"spr_block_coins_hit_animation","order":2,"path":"sprites/spr_block_coins_hit_animation/spr_block_coins_hit_animation.yy",},
     {"name":"o_btn_start","order":2,"path":"objects/o_btn_start/o_btn_start.yy",},
     {"name":"spr_tileset_cave","order":2,"path":"sprites/spr_tileset_cave/spr_tileset_cave.yy",},
