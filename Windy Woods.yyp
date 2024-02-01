@@ -78,6 +78,7 @@
   "resources": [
     {"id":{"name":"s_bg_black","path":"sprites/s_bg_black/s_bg_black.yy",},},
     {"id":{"name":"obj_touch_button_right","path":"objects/obj_touch_button_right/obj_touch_button_right.yy",},},
+    {"id":{"name":"rm_level_2","path":"rooms/rm_level_2/rm_level_2.yy",},},
     {"id":{"name":"spr_hurt_zone","path":"sprites/spr_hurt_zone/spr_hurt_zone.yy",},},
     {"id":{"name":"obj_effect_jump","path":"objects/obj_effect_jump/obj_effect_jump.yy",},},
     {"id":{"name":"spr_front_tree_3","path":"sprites/spr_front_tree_3/spr_front_tree_3.yy",},},
@@ -264,6 +265,7 @@
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_level_0_txt","path":"rooms/rm_level_0_txt/rm_level_0_txt.yy",},},
     {"roomId":{"name":"rm_level_1","path":"rooms/rm_level_1/rm_level_1.yy",},},
+    {"roomId":{"name":"rm_level_2","path":"rooms/rm_level_2/rm_level_2.yy",},},
     {"roomId":{"name":"rm_end","path":"rooms/rm_end/rm_end.yy",},},
   ],
   "templateType": "game",

@@ -8,6 +8,7 @@
   "ResourceOrderSettings": [
     {"name":"s_bg_black","order":1,"path":"sprites/s_bg_black/s_bg_black.yy",},
     {"name":"obj_touch_button_right","order":1,"path":"objects/obj_touch_button_right/obj_touch_button_right.yy",},
+    {"name":"rm_level_2","order":2,"path":"rooms/rm_level_2/rm_level_2.yy",},
     {"name":"obj_effect_jump","order":5,"path":"objects/obj_effect_jump/obj_effect_jump.yy",},
     {"name":"spr_cloud_small","order":4,"path":"sprites/spr_cloud_small/spr_cloud_small.yy",},
     {"name":"spr_touch_jump","order":2,"path":"sprites/spr_touch_jump/spr_touch_jump.yy",},
