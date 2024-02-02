@@ -1,10 +1,10 @@
 {
   "FolderOrderSettings": [
+    {"name":"anim_obj","order":3,"path":"folders/Objects/anim_obj.yy",},
     {"name":"Marks","order":1,"path":"folders/Objects/Marks.yy",},
     {"name":"MARKS","order":1,"path":"folders/Sprites/MARKS.yy",},
     {"name":"s_txt_controll","order":9,"path":"folders/Sprites/UI/s_txt_controll.yy",},
     {"name":"Спрайты","order":1,"path":"folders/Спрайты.yy",},
-    {"name":"anim_obj","order":3,"path":"folders/Objects/anim_obj.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"s_bg_black","order":1,"path":"sprites/s_bg_black/s_bg_black.yy",},

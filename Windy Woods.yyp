@@ -14,6 +14,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"anim_obj","folderPath":"folders/Objects/anim_obj.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Characters","folderPath":"folders/Objects/Characters.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Enemies","folderPath":"folders/Objects/Characters/Enemies.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player","folderPath":"folders/Objects/Characters/Player.yy",},
@@ -66,7 +67,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"VFX","folderPath":"folders/Sprites/VFX.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Спрайты","folderPath":"folders/Спрайты.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"anim_obj","folderPath":"folders/Objects/anim_obj.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Visitor Rus.ttf","CopyToMask":-1,"filePath":"datafiles",},
