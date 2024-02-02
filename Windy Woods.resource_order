@@ -51,6 +51,8 @@
     {"name":"spr_mushroom_3","order":8,"path":"sprites/spr_mushroom_3/spr_mushroom_3.yy",},
     {"name":"spr_hanging_group_2","order":4,"path":"sprites/spr_hanging_group_2/spr_hanging_group_2.yy",},
     {"name":"snd_box_get","order":11,"path":"sounds/snd_box_get/snd_box_get.yy",},
+    {"name":"back_4","order":4,"path":"sprites/back_4/back_4.yy",},
+    {"name":"back_5","order":5,"path":"sprites/back_5/back_5.yy",},
     {"name":"ts_cave","order":2,"path":"tilesets/ts_cave/ts_cave.yy",},
     {"name":"snd_amb_wind","order":4,"path":"sounds/snd_amb_wind/snd_amb_wind.yy",},
     {"name":"s_peskov","order":3,"path":"sprites/s_peskov/s_peskov.yy",},
