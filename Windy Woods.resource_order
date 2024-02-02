@@ -78,6 +78,7 @@
     {"name":"spr_ground_side_leaves_left","order":2,"path":"sprites/spr_ground_side_leaves_left/spr_ground_side_leaves_left.yy",},
     {"name":"spr_rock1","order":15,"path":"sprites/spr_rock1/spr_rock1.yy",},
     {"name":"snd_dirt_block_hit_01","order":3,"path":"sounds/snd_dirt_block_hit_01/snd_dirt_block_hit_01.yy",},
+    {"name":"spr_button_resume","order":10,"path":"sprites/spr_button_resume/spr_button_resume.yy",},
     {"name":"snd_footstep_03","order":2,"path":"sounds/snd_footstep_03/snd_footstep_03.yy",},
     {"name":"snd_amb_cave_02","order":1,"path":"sounds/snd_amb_cave_02/snd_amb_cave_02.yy",},
     {"name":"o_lvl_is_txt","order":1,"path":"objects/o_lvl_is_txt/o_lvl_is_txt.yy",},

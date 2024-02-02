@@ -32,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_button_green",
-    "path": "sprites/spr_button_green/spr_button_green.yy",
+    "name": "spr_button_resume",
+    "path": "sprites/spr_button_resume/spr_button_resume.yy",
   },
   "spriteMaskId": null,
   "visible": true,

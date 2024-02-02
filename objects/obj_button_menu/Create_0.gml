@@ -1,4 +1,2 @@
-event_inherited();
-
-// Set the text for this button
-text = "В меню";
+image_speed=0
+image_index=0
