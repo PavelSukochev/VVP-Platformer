@@ -1,1 +1,1 @@
-image_angle-=10
+image_angle-=5
