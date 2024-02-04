@@ -12,8 +12,12 @@ defeated_object = obj_player_defeated;
 
 instance_create_layer(obj_player.x,obj_player.y-270,"Instances",o_lvl_is_txt)
 
-if !(room==rm_level_0_txt)
-{
-instance_create_layer(obj_player.x,obj_player.y+81,"Instances",obj_end_gate_empty)
-}
 
+if (global.lvl>=0 and global.lvl<=1)
+{
+	instance_create_layer(obj_player.x,obj_player.y+81,"Instances",obj_end_gate_empty)
+}
+else if (global.lvl>1 and global.lvl<=5)
+{
+	instance_create_layer(obj_player.x,obj_player.y+81,"Instances",obj_end_gate_empty_2)
+}

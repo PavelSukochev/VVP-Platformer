@@ -4,7 +4,7 @@
 //gpu_set_blendmode(bm_add);
 
 // This draws the inside part of the end gate, at the position of the gate itself.
-draw_sprite(spr_end_gate_glow, 0, x, y);
+draw_sprite(s_start_castle_eff, 0, x, y);
 
 
 

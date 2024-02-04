@@ -66,7 +66,6 @@
     {"name":"inst_45716BDA","path":"rooms/rm_level_2/rm_level_2.yy",},
     {"name":"inst_393E5AB2","path":"rooms/rm_level_2/rm_level_2.yy",},
     {"name":"inst_700E3BF6","path":"rooms/rm_level_2/rm_level_2.yy",},
-    {"name":"inst_23531B4D","path":"rooms/rm_level_2/rm_level_2.yy",},
     {"name":"inst_3C081A17","path":"rooms/rm_level_2/rm_level_2.yy",},
     {"name":"inst_6464B7C5","path":"rooms/rm_level_2/rm_level_2.yy",},
     {"name":"inst_17851410","path":"rooms/rm_level_2/rm_level_2.yy",},
@@ -96,6 +95,7 @@
     {"name":"inst_7A668B1F","path":"rooms/rm_level_2/rm_level_2.yy",},
     {"name":"inst_6C1AADC5","path":"rooms/rm_level_2/rm_level_2.yy",},
     {"name":"inst_2944FDB7","path":"rooms/rm_level_2/rm_level_2.yy",},
+    {"name":"inst_58E172F3","path":"rooms/rm_level_2/rm_level_2.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -302,7 +302,7 @@
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_3D0873DA","animationSpeed":1.0,"colour":4294967295,"frozen":true,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_mound","path":"sprites/spr_mound/spr_mound.yy",},"x":1631.0,"y":606.0,},
       ],"depth":700,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":64,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"EndGate","depth":800,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_23531B4D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_end_gate","path":"objects/obj_end_gate/obj_end_gate.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":12928.0,"y":1792.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_58E172F3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_end_gate_2","path":"objects/obj_end_gate_2/obj_end_gate_2.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":12896.0,"y":1792.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"WaterTiles","depth":900,"effectEnabled":true,"effectType":"_filter_underwater","gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[
         {"name":"g_Distort1Speed","type":0,"value":"0.018",},

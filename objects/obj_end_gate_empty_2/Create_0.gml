@@ -6,4 +6,4 @@ var _particle_instance = instance_create_layer(x, y, layer, obj_end_gate_particl
 // The depth of the particle instance is set to be 10 lower than the end gate's
 // depth, so the particles are drawn above the end gate itself
 _particle_instance.depth = depth - 10;
-sprite_index=spr_end_gate;
+sprite_index=s_start_castle

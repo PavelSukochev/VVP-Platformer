@@ -9,7 +9,6 @@
   "instanceCreationOrder": [
     {"name":"inst_5AE1DAE6","path":"rooms/rm_level_1/rm_level_1.yy",},
     {"name":"inst_4F93A5C0","path":"rooms/rm_level_1/rm_level_1.yy",},
-    {"name":"inst_F839FAF","path":"rooms/rm_level_1/rm_level_1.yy",},
     {"name":"inst_2167D862","path":"rooms/rm_level_1/rm_level_1.yy",},
     {"name":"inst_1CADDE9A","path":"rooms/rm_level_1/rm_level_1.yy",},
     {"name":"inst_68ED8889","path":"rooms/rm_level_1/rm_level_1.yy",},
@@ -95,6 +94,7 @@
     {"name":"inst_5DD0A81F","path":"rooms/rm_level_1/rm_level_1.yy",},
     {"name":"inst_6570B47F","path":"rooms/rm_level_1/rm_level_1.yy",},
     {"name":"inst_3E433715","path":"rooms/rm_level_1/rm_level_1.yy",},
+    {"name":"inst_21A3CCE4","path":"rooms/rm_level_1/rm_level_1.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -592,7 +592,7 @@
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_2D55EF5","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_rock2","path":"sprites/spr_rock2/spr_rock2.yy",},"x":11680.0,"y":2816.0,},
       ],"depth":600,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":64,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"EndGate","depth":700,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_F839FAF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_end_gate","path":"objects/obj_end_gate/obj_end_gate.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":18208.0,"y":1664.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_21A3CCE4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_end_gate_2","path":"objects/obj_end_gate_2/obj_end_gate_2.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":18208.002,"y":1664.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"WaterTiles","depth":800,"effectEnabled":true,"effectType":"_filter_underwater","gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[
         {"name":"g_Distort1Speed","type":0,"value":"0.018",},
