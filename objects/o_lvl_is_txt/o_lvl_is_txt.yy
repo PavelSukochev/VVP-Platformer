@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Marks",
-    "path": "folders/Objects/Marks.yy",
+    "name": "UI",
+    "path": "folders/Objects/UI.yy",
   },
   "parentObjectId": null,
   "persistent": false,
