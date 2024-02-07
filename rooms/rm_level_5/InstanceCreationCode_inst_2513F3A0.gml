@@ -1,1 +1,1 @@
-image_index = s_constitution_finish;
+sprite_index = s_constitution_finish;

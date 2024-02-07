@@ -1,5 +1,5 @@
-if ( (hit_hit) and (hit_yy>1782) )
+if ( (hit_hit_ii) and (hit_yy_ii>1331) )
 {
-	hit_yy-=5
+	hit_yy_ii-=5
 }
 
