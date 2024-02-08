@@ -16,6 +16,10 @@ if (collision_point(_mouse_gui_x, _mouse_gui_y, object_index, false, false) == i
 	// If the left mouse button is pressed,
 	if (mouse_check_button_pressed(mb_left))
 	{
+		if (object_index=obj_button_menu)
+		{
+			game_restart();
+		}
 		// Reduce the scale of the instance so it appears smaller while it's pressed
 		image_xscale = 0.9;
 		image_yscale = 0.9;

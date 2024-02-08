@@ -1,2 +1,4 @@
-image_speed=0
-image_index=0
+event_inherited();
+
+// Set the text for this button
+text = "";

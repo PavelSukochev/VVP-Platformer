@@ -73,6 +73,7 @@
     {"name":"ts_cave","order":2,"path":"tilesets/ts_cave/ts_cave.yy",},
     {"name":"snd_amb_wind","order":4,"path":"sounds/snd_amb_wind/snd_amb_wind.yy",},
     {"name":"s_peskov","order":3,"path":"sprites/s_peskov/s_peskov.yy",},
+    {"name":"obj_button_menu","order":3,"path":"objects/obj_button_menu/obj_button_menu.yy",},
     {"name":"spr_stop_leaf_effect","order":1,"path":"sprites/spr_stop_leaf_effect/spr_stop_leaf_effect.yy",},
     {"name":"ts_lava","order":3,"path":"tilesets/ts_lava/ts_lava.yy",},
     {"name":"obj_hud_background","order":2,"path":"objects/obj_hud_background/obj_hud_background.yy",},
