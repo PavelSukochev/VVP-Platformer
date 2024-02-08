@@ -6,9 +6,9 @@ if (in_cave)
 
 	audio_sound_gain(snd_amb_wind, 0, 2000);
 
-	audio_sound_gain(snd_amb_cave_01, vol_cave_1, 2000);
+	audio_sound_gain(snd_amb_cave_01, global.vol, 2000);
 
-	audio_sound_gain(snd_amb_cave_02, vol_cave_2, 2000);
+	audio_sound_gain(snd_amb_cave_02, global.vol, 2000);
 }
 
 // If the player is not in a cave, fade out all cave ambience, and fade in overworld ambience (trees and wind)
@@ -18,7 +18,7 @@ else
 
 	audio_sound_gain(snd_amb_cave_02, 0, 2000);
 
-	audio_sound_gain(snd_amb_trees, vol_trees, 2000);
+	audio_sound_gain(snd_amb_trees, global.vol, 2000);
 
-	audio_sound_gain(snd_amb_wind, vol_wind, 2000);
+	audio_sound_gain(snd_amb_wind, global.vol, 2000);
 }

@@ -3,4 +3,5 @@
 function src_init(){
 global.lvl = -1
 global.is_system="undefined"
+global.vol=0
 }

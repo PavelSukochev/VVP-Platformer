@@ -1,11 +1,11 @@
 // Restore ambient audio volumes
-audio_sound_gain(snd_amb_cave_01, vol_cave_1, 0);
+audio_sound_gain(snd_amb_cave_01, global.vol, 0);
 
-audio_sound_gain(snd_amb_cave_02, vol_cave_2, 0);
+audio_sound_gain(snd_amb_cave_02, global.vol, 0);
 
-audio_sound_gain(snd_amb_trees, vol_trees, 0);
+audio_sound_gain(snd_amb_trees, global.vol, 0);
 
-audio_sound_gain(snd_amb_wind, vol_wind, 0);
+audio_sound_gain(snd_amb_wind, global.vol, 0);
 
 // Stop music and ambient audio
 audio_stop_sound(snd_music_level);
