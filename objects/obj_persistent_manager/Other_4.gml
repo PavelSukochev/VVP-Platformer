@@ -2,5 +2,5 @@
 if (room == rm_end)
 {
 	// Play music track with looping enabled
-	audio_play_sound(snd_music_level, 0, 1);
+	audio_play_sound(Svetit, 0, 1);
 }

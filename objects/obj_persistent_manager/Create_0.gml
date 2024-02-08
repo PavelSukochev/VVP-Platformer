@@ -15,7 +15,7 @@ if (os_browser != browser_not_a_browser)
 }
 
 // Play music track with looping enabled
-audio_play_sound(snd_music_level, 0, true);
+audio_play_sound(Svetit, 0, true);
 
 // Set the falloff model used for all audio emitters, like in obj_end_gate
 audio_falloff_set_model(audio_falloff_linear_distance_clamped);
