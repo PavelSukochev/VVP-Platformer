@@ -10,12 +10,14 @@ pause_sequence = -1;
 in_cave = false;
 
 // If the game is running on a browser, it creates the touch controls sequence
-if (os_browser != browser_not_a_browser)
+
+if (global.is_system="tele")
 {
 	layer_sequence_create("TouchControlsLayer", 0, 0, seq_touch_controls);
 }
+
 // If the game is running on Opera GX, Android, or iOS, it creates the touch controls sequence
-else if (os_type == os_operagx || os_type == os_android || os_type == os_ios)
+if (os_type == os_operagx || os_type == os_android || os_type == os_ios)
 {
 	layer_sequence_create("TouchControlsLayer", 0, 0, seq_touch_controls);
 }
