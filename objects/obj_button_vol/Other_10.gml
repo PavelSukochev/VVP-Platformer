@@ -1,6 +1,11 @@
-// Run the Key Press - Escape key event in obj_game_manager so
-// it resumes the game
-with (obj_game_manager)
+if (global.vol=1){global.vol=0}else{global.vol=1;}
+
+var num = audio_get_listener_count();
+for( var i = 0; i < num; i++;)
 {
-	if (global.vol=1){global.vol=0}else{global.vol=1;}
+    var info = audio_get_listener_info(i);
+    audio_set_master_gain(info[? "index"], global.vol);
+    ds_map_destroy(info);
 }
+alarm[1]=30
+
