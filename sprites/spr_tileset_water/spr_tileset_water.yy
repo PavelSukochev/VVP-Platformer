@@ -13,7 +13,7 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5dd1f378-cfcb-41c5-b9a1-2673f6f42454",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1ff32efa-b998-46a5-ba0c-0714b1fdb0ca",},
   ],
   "gridX": 128,
   "gridY": 128,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5dd1f378-cfcb-41c5-b9a1-2673f6f42454","path":"sprites/spr_tileset_water/spr_tileset_water.yy",},},},"Disabled":false,"id":"4817adc8-83bf-4465-8a2d-5804eacbdaf5","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"1ff32efa-b998-46a5-ba0c-0714b1fdb0ca","path":"sprites/spr_tileset_water/spr_tileset_water.yy",},},},"Disabled":false,"id":"3b12bdab-8fd8-4c47-9ab4-e5a7e12a0199","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
