@@ -13,8 +13,8 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"82fa5e63-5c24-4889-8def-921a92dcb567",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2bc1687b-098f-4a1c-a142-7b43d9996ca8",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f56a8de4-7fab-4910-900b-12cb07c53678",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"48013bb3-75b4-4d6b-9274-278eaab829e9",},
   ],
   "gridX": 175,
   "gridY": 130,
@@ -56,8 +56,8 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"82fa5e63-5c24-4889-8def-921a92dcb567","path":"sprites/spr_touch_left/spr_touch_left.yy",},},},"Disabled":false,"id":"e3483606-1f20-4288-9bf7-f1b4a661027f","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"2bc1687b-098f-4a1c-a142-7b43d9996ca8","path":"sprites/spr_touch_left/spr_touch_left.yy",},},},"Disabled":false,"id":"326fb820-cbb1-4810-a420-094ccd7a6bd3","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f56a8de4-7fab-4910-900b-12cb07c53678","path":"sprites/spr_touch_left/spr_touch_left.yy",},},},"Disabled":false,"id":"8f218e6f-f99b-4564-8bef-dcce273e3a28","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"48013bb3-75b4-4d6b-9274-278eaab829e9","path":"sprites/spr_touch_left/spr_touch_left.yy",},},},"Disabled":false,"id":"148114b9-3376-4b33-94fd-15a619b73864","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

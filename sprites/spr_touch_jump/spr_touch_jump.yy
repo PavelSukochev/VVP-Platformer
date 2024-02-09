@@ -13,8 +13,8 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"187f91c9-c011-4d52-b66f-4ce3ae00a3d6",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6a1e752b-e62a-49f4-9a15-5abf30b40e08",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"833dda4d-5d3a-4d9d-9309-1a811ce3efaa",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"36b352bc-c889-48ca-ab72-1133a132d32a",},
   ],
   "gridX": 176,
   "gridY": 131,
@@ -55,8 +55,8 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"187f91c9-c011-4d52-b66f-4ce3ae00a3d6","path":"sprites/spr_touch_jump/spr_touch_jump.yy",},},},"Disabled":false,"id":"632fd178-bf90-4d59-b19b-e9912ddf72b3","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6a1e752b-e62a-49f4-9a15-5abf30b40e08","path":"sprites/spr_touch_jump/spr_touch_jump.yy",},},},"Disabled":false,"id":"8d6609cd-2bb6-4ec6-b58a-dd7250ddf888","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"833dda4d-5d3a-4d9d-9309-1a811ce3efaa","path":"sprites/spr_touch_jump/spr_touch_jump.yy",},},},"Disabled":false,"id":"ae30e89d-04d2-4ac0-95f1-73d94dcae375","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"36b352bc-c889-48ca-ab72-1133a132d32a","path":"sprites/spr_touch_jump/spr_touch_jump.yy",},},},"Disabled":false,"id":"c926c8c2-07f0-4272-a6a7-ef4201e2b771","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
