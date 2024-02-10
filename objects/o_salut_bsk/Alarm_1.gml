@@ -4,5 +4,5 @@ if !(sa>3)
 	aa.sa=sa;
 	audio_play_sound(Mario, 0, 0);
 	sa+=1;
-	alarm[1]=60
+	alarm[1]=35
 }
