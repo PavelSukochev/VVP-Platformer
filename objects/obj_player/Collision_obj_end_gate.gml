@@ -1,4 +1,4 @@
-if (coins>=5)
+if (coins>=30)
 {
 	instance_create_layer(x, y-400, layer, o_salut_bsk)
 }
