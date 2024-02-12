@@ -141,6 +141,7 @@
     {"name":"s_Bridge","order":20,"path":"sprites/s_Bridge/s_Bridge.yy",},
     {"name":"spr_block_brick_destroy","order":4,"path":"sprites/spr_block_brick_destroy/spr_block_brick_destroy.yy",},
     {"name":"spr_backtrees_2","order":2,"path":"sprites/spr_backtrees_2/spr_backtrees_2.yy",},
+    {"name":"Ofi_1","order":8,"path":"sounds/Ofi_1/Ofi_1.yy",},
     {"name":"spr_tileset_cave_2","order":11,"path":"sprites/spr_tileset_cave_2/spr_tileset_cave_2.yy",},
     {"name":"obj_placeholder_message_peskov","order":1,"path":"objects/obj_placeholder_message_peskov/obj_placeholder_message_peskov.yy",},
     {"name":"spr_tileset_world_3","order":7,"path":"sprites/spr_tileset_world_3/spr_tileset_world_3.yy",},

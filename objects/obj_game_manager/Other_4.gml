@@ -5,8 +5,10 @@ if (room == rm_menu) {
     audio_play_sound(Svetit, global.vol, 0);
 } else if (room == rm_level_0_txt) {
     audio_play_sound(Berezka, global.vol, 0);
-} else if ((room == rm_level_1) or (room == rm_level_2)) {
+} else if (room == rm_level_1){
     audio_play_sound(V_pole_s_konem, global.vol, 0);
+} else if (room == rm_level_2) {
+	audio_play_sound(Ofi_1, global.vol, 0);
 } else if (room == rm_level_3) {
     audio_play_sound(Oficeri, global.vol, 0);
 } else if (room == rm_level_4) {

@@ -25,6 +25,7 @@ audio_stop_sound(Kombat);
 audio_stop_sound(Mario);
 audio_stop_sound(Oficeri);
 audio_stop_sound(RF);
+audio_stop_sound(Ofi_1);
 audio_stop_sound(Svetit);
 audio_stop_sound(V_pole_s_konem);
 

@@ -235,6 +235,7 @@
     {"id":{"name":"spr_dust_effect","path":"sprites/spr_dust_effect/spr_dust_effect.yy",},},
     {"id":{"name":"spr_block_brick_destroy","path":"sprites/spr_block_brick_destroy/spr_block_brick_destroy.yy",},},
     {"id":{"name":"spr_backtrees_2","path":"sprites/spr_backtrees_2/spr_backtrees_2.yy",},},
+    {"id":{"name":"Ofi_1","path":"sounds/Ofi_1/Ofi_1.yy",},},
     {"id":{"name":"spr_tileset_cave_2","path":"sprites/spr_tileset_cave_2/spr_tileset_cave_2.yy",},},
     {"id":{"name":"obj_placeholder_message_peskov","path":"objects/obj_placeholder_message_peskov/obj_placeholder_message_peskov.yy",},},
     {"id":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},},
