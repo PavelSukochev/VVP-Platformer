@@ -10,7 +10,7 @@
   "bitRate": 128,
   "compression": 0,
   "conversionMode": 0,
-  "duration": 16.3265,
+  "duration": 32.67915,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "Berezka.mp3",
   "type": 0,
-  "volume": 1.0,
+  "volume": 0.75,
 }

@@ -10,7 +10,7 @@
   "bitRate": 128,
   "compression": 3,
   "conversionMode": 0,
-  "duration": 3.048,
+  "duration": 2.76895,
   "parent": {
     "name": "Music",
     "path": "folders/Sounds/Music.yy",
@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "snd_music_lose.mp3",
   "type": 0,
-  "volume": 0.56,
+  "volume": 0.9,
 }
