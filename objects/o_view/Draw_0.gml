@@ -1,3 +1,4 @@
+/*
 _vx = camera_get_view_x(view_camera[0]); // 0
 _vy = camera_get_view_y(view_camera[0]); // 0
 _vw = camera_get_view_width(view_camera[0]); // 1930
