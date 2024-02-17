@@ -7,3 +7,4 @@
 	surface_resize(application_surface, view_wport[0], view_hport[0]);
 	
 	alarm[0]=1
+	f=0;
