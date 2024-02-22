@@ -179,6 +179,7 @@
     {"id":{"name":"o_post","path":"objects/o_post/o_post.yy",},},
     {"id":{"name":"spr_tileset_world_4","path":"sprites/spr_tileset_world_4/spr_tileset_world_4.yy",},},
     {"id":{"name":"snd_footstep_01","path":"sounds/snd_footstep_01/snd_footstep_01.yy",},},
+    {"id":{"name":"rm_level_test","path":"rooms/rm_level_test/rm_level_test.yy",},},
     {"id":{"name":"ts_water_2","path":"tilesets/ts_water_2/ts_water_2.yy",},},
     {"id":{"name":"spr_part_brick_destroy","path":"sprites/spr_part_brick_destroy/spr_part_brick_destroy.yy",},},
     {"id":{"name":"Oficeri","path":"sounds/Oficeri/Oficeri.yy",},},
@@ -336,6 +337,7 @@
     {"roomId":{"name":"rm_level_5","path":"rooms/rm_level_5/rm_level_5.yy",},},
     {"roomId":{"name":"rm_end","path":"rooms/rm_end/rm_end.yy",},},
     {"roomId":{"name":"rm_0_is_system","path":"rooms/rm_0_is_system/rm_0_is_system.yy",},},
+    {"roomId":{"name":"rm_level_test","path":"rooms/rm_level_test/rm_level_test.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

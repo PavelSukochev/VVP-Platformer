@@ -92,6 +92,7 @@
     {"name":"rm_level_3","order":3,"path":"rooms/rm_level_3/rm_level_3.yy",},
     {"name":"snd_footstep_02","order":1,"path":"sounds/snd_footstep_02/snd_footstep_02.yy",},
     {"name":"spr_tileset_world_4","order":9,"path":"sprites/spr_tileset_world_4/spr_tileset_world_4.yy",},
+    {"name":"rm_level_test","order":6,"path":"rooms/rm_level_test/rm_level_test.yy",},
     {"name":"ts_water_2","order":4,"path":"tilesets/ts_water_2/ts_water_2.yy",},
     {"name":"Oficeri","order":3,"path":"sounds/Oficeri/Oficeri.yy",},
     {"name":"rm_menu","order":1,"path":"rooms/rm_menu/rm_menu.yy",},
