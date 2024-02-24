@@ -185,7 +185,6 @@
     {"name":"s_start_castle_eff","order":8,"path":"sprites/s_start_castle_eff/s_start_castle_eff.yy",},
     {"name":"spr_player_walk","order":5,"path":"sprites/spr_player_walk/spr_player_walk.yy",},
     {"name":"spr_part_character_jump","order":1,"path":"sprites/spr_part_character_jump/spr_part_character_jump.yy",},
-    {"name":"spr_backtrees_1","order":1,"path":"sprites/spr_backtrees_1/spr_backtrees_1.yy",},
     {"name":"spr_rock3","order":17,"path":"sprites/spr_rock3/spr_rock3.yy",},
     {"name":"spr_rock2","order":16,"path":"sprites/spr_rock2/spr_rock2.yy",},
     {"name":"obj_button_vol","order":4,"path":"objects/obj_button_vol/obj_button_vol.yy",},

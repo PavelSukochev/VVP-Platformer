@@ -33,5 +33,5 @@
     "path": "sprites/spr_dust_effect/spr_dust_effect.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

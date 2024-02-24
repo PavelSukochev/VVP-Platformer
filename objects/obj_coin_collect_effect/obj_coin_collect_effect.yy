@@ -35,5 +35,5 @@
     "path": "sprites/spr_coin_collect_effect/spr_coin_collect_effect.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

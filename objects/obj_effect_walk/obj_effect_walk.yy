@@ -33,5 +33,5 @@
     "path": "sprites/spr_part_character_walk/spr_part_character_walk.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

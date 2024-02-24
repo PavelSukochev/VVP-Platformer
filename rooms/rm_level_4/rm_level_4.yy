@@ -25,8 +25,6 @@
     {"name":"inst_5E46C0E5_1","path":"rooms/rm_level_4/rm_level_4.yy",},
     {"name":"inst_4A802AE1_1","path":"rooms/rm_level_4/rm_level_4.yy",},
     {"name":"inst_78B149C7_1","path":"rooms/rm_level_4/rm_level_4.yy",},
-    {"name":"inst_59436384_2","path":"rooms/rm_level_4/rm_level_4.yy",},
-    {"name":"inst_215B0F86_2","path":"rooms/rm_level_4/rm_level_4.yy",},
     {"name":"inst_667C1FA0_4","path":"rooms/rm_level_4/rm_level_4.yy",},
     {"name":"inst_3561D213_1","path":"rooms/rm_level_4/rm_level_4.yy",},
     {"name":"inst_769D3DA3_1","path":"rooms/rm_level_4/rm_level_4.yy",},
@@ -91,10 +89,7 @@
   "isDnd": false,
   "layers": [
     {"resourceType":"GMREffectLayer","resourceVersion":"1.0","name":"Effect_1","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
-    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Editor","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_59436384_2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_stop_leaf_effect","path":"objects/obj_stop_leaf_effect/obj_stop_leaf_effect.yy",},"properties":[],"rotation":0.0,"scaleX":113.75,"scaleY":19.75,"x":9456.0,"y":3056.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_215B0F86_2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_stop_leaf_effect","path":"objects/obj_stop_leaf_effect/obj_stop_leaf_effect.yy",},"properties":[],"rotation":0.0,"scaleX":29.250002,"scaleY":17.5,"x":16304.0,"y":3104.0,},
-      ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
+    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Editor","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":false,},
     {"resourceType":"GMREffectLayer","resourceVersion":"1.0","name":"EffectLeaf","depth":200,"effectEnabled":true,"effectType":"_effect_windblown_particles","gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[
         {"name":"param_sprite","type":2,"value":"spr_leaf",},
         {"name":"param_num_particles","type":0,"value":"60",},

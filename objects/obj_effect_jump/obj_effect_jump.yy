@@ -33,5 +33,5 @@
     "path": "sprites/spr_part_character_jump/spr_part_character_jump.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

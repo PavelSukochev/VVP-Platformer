@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "spr_tileset_world_3",
   "bbox_bottom": 1151,
-  "bbox_left": 128,
+  "bbox_left": 127,
   "bbox_right": 1535,
   "bbox_top": 0,
   "bboxMode": 0,
@@ -13,7 +13,7 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fa49b0d5-d90b-4b7c-967b-8e03b8b202b6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"74bb08ee-9259-404e-9fc5-cd8dbd51bdf9",},
   ],
   "gridX": 0,
   "gridY": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"fa49b0d5-d90b-4b7c-967b-8e03b8b202b6","path":"sprites/spr_tileset_world_3/spr_tileset_world_3.yy",},},},"Disabled":false,"id":"84f1bdf7-cb7a-4c80-af53-300112d21ba7","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"74bb08ee-9259-404e-9fc5-cd8dbd51bdf9","path":"sprites/spr_tileset_world_3/spr_tileset_world_3.yy",},},},"Disabled":false,"id":"c36d418d-addd-4758-aa00-216544afbae9","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

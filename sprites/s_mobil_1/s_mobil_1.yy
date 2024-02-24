@@ -13,8 +13,8 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d60352d1-8fd1-4667-bef4-934a3ca218fb",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"14671ee8-d3ea-4bd3-8831-958e851b0e3f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ae28af9c-7f5b-4f55-8020-4ba0112eb3f7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4c4f39c4-2c5a-4e11-9471-cf6f54cbb02d",},
   ],
   "gridX": 0,
   "gridY": 0,
@@ -55,8 +55,8 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d60352d1-8fd1-4667-bef4-934a3ca218fb","path":"sprites/s_mobil_1/s_mobil_1.yy",},},},"Disabled":false,"id":"dad0eb50-2b0c-49ef-af2e-55c6ad4e2ec8","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"14671ee8-d3ea-4bd3-8831-958e851b0e3f","path":"sprites/s_mobil_1/s_mobil_1.yy",},},},"Disabled":false,"id":"6de0ff82-45fc-4f14-a1a0-62eba0723a5e","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ae28af9c-7f5b-4f55-8020-4ba0112eb3f7","path":"sprites/s_mobil_1/s_mobil_1.yy",},},},"Disabled":false,"id":"2e15e415-f7c1-4289-86f5-b0fffdc1cf42","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"4c4f39c4-2c5a-4e11-9471-cf6f54cbb02d","path":"sprites/s_mobil_1/s_mobil_1.yy",},},},"Disabled":false,"id":"e7edc9c8-fe2e-47a7-9b36-9b83b923cf21","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

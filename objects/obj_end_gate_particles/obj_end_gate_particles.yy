@@ -32,5 +32,5 @@
     "path": "sprites/spr_end_gate_particles/spr_end_gate_particles.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

@@ -13,8 +13,8 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"66497a63-6bdf-4b5f-876b-4783ccfcd650",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"94b6440b-be16-4826-a6c6-6d60aa809c9a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9c30d06d-0632-498d-baf1-2838c63601dd",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8246685e-af1b-452f-922c-b902375c9bd5",},
   ],
   "gridX": 0,
   "gridY": 0,
@@ -55,8 +55,8 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"66497a63-6bdf-4b5f-876b-4783ccfcd650","path":"sprites/s_chemodan/s_chemodan.yy",},},},"Disabled":false,"id":"f77f15cd-a0dc-4210-b3a2-83f4d2317ab0","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"94b6440b-be16-4826-a6c6-6d60aa809c9a","path":"sprites/s_chemodan/s_chemodan.yy",},},},"Disabled":false,"id":"f3ea03be-d9c0-464f-a413-170a81087ae9","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"9c30d06d-0632-498d-baf1-2838c63601dd","path":"sprites/s_chemodan/s_chemodan.yy",},},},"Disabled":false,"id":"2c12223e-31cb-4ddf-b2c0-f0598072a4a5","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8246685e-af1b-452f-922c-b902375c9bd5","path":"sprites/s_chemodan/s_chemodan.yy",},},},"Disabled":false,"id":"b2911fe9-c137-403d-9d8f-3bd02f75913b","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
