@@ -76,8 +76,8 @@
   },
   "spriteNoExport": true,
   "textureGroupId": {
-    "name": "tg_game",
-    "path": "texturegroups/tg_game",
+    "name": "Default",
+    "path": "texturegroups/Default",
   },
   "tile_count": 108,
   "tileAnimation": {

@@ -84,7 +84,6 @@
     {"name":"RF","order":4,"path":"sounds/RF/RF.yy",},
     {"name":"seq_pause_menu","order":1,"path":"sequences/seq_pause_menu/seq_pause_menu.yy",},
     {"name":"spr_game_over_background","order":4,"path":"sprites/spr_game_over_background/spr_game_over_background.yy",},
-    {"name":"spr_coin_collect_effect","order":1,"path":"sprites/spr_coin_collect_effect/spr_coin_collect_effect.yy",},
     {"name":"rm_level_3","order":3,"path":"rooms/rm_level_3/rm_level_3.yy",},
     {"name":"snd_footstep_02","order":1,"path":"sounds/snd_footstep_02/snd_footstep_02.yy",},
     {"name":"spr_tileset_world_4","order":9,"path":"sprites/spr_tileset_world_4/spr_tileset_world_4.yy",},

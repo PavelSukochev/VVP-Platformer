@@ -65,8 +65,8 @@
   "swatchColours": null,
   "swfPrecision": 2.525,
   "textureGroupId": {
-    "name": "tg_hud",
-    "path": "texturegroups/tg_hud",
+    "name": "Default",
+    "path": "texturegroups/Default",
   },
   "type": 0,
   "VTile": false,

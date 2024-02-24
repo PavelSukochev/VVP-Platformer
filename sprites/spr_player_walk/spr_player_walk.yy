@@ -82,8 +82,8 @@
   "swatchColours": null,
   "swfPrecision": 2.525,
   "textureGroupId": {
-    "name": "tg_game",
-    "path": "texturegroups/tg_game",
+    "name": "tg_game999",
+    "path": "texturegroups/tg_game999",
   },
   "type": 0,
   "VTile": false,

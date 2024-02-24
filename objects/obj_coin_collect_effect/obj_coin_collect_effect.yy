@@ -30,10 +30,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_coin_collect_effect",
-    "path": "sprites/spr_coin_collect_effect/spr_coin_collect_effect.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": false,
 }
