@@ -27,10 +27,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_end_gate_particles",
-    "path": "sprites/spr_end_gate_particles/spr_end_gate_particles.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": false,
 }

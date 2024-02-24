@@ -28,10 +28,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_part_character_jump",
-    "path": "sprites/spr_part_character_jump/spr_part_character_jump.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": false,
 }

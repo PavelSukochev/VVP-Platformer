@@ -28,10 +28,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_part_character_walk",
-    "path": "sprites/spr_part_character_walk/spr_part_character_walk.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": false,
 }
