@@ -1,1 +1,1 @@
-room_goto(rm_level_test)
+hp+=1;

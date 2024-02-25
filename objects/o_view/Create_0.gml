@@ -1,3 +1,4 @@
+depth=-999999999999999999999
 	var _bw = browser_width;
 	var _bh = browser_height;
 

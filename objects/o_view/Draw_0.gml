@@ -15,6 +15,7 @@ draw_text(_vx+_vw/2,_vy+50,"#FPS: "+string(fps))
 
 
 //}
+
 draw_set_color(c_white)
 
 
@@ -37,4 +38,16 @@ if (instance_exists(obj_player))
 		instance_activate_layer("Trees")
 		instance_activate_layer("Back_Clouds")
 	}
+}
+
+
+
+var xc = (_vw+_vx)/2;  //x - центер камеры
+var yc =  (_vh+_vy)*0.50; //y - центер камеры
+x=xc;
+y=yc;
+
+if ( ( browser_width < browser_height ) and room==rm_menu)
+{
+	draw_self();
 }
