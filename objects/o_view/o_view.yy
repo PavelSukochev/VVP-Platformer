@@ -31,10 +31,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "s_mob",
-    "path": "sprites/s_mob/s_mob.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
