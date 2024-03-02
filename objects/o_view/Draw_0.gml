@@ -41,7 +41,7 @@ if (instance_exists(obj_player))
 }
 
 
-/*
+
 var xc = (_vw+_vx)/2;  //x - центер камеры
 var yc =  (_vh+_vy)*0.50; //y - центер камеры
 x=xc;
@@ -49,6 +49,5 @@ y=yc;
 
 if ( ( browser_width < browser_height ) and room==rm_menu)
 {
-	draw_sprite(s_mob,1,x,y);
+	draw_self();
 }
-*/
