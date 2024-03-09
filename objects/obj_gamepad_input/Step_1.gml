@@ -33,6 +33,7 @@ if (gamepad != undefined)
 	// a specific room like previous conditions, because there can be many game levels with different room names.
 	if (instance_exists(obj_player))
 	{
+		
 		// This gets the horizontal input from the left stick on the gamepad, which is used for moving left/right.
 		// The input range is from -1 to 1, where <0 is left and >0 is right.
 		// However we will use a deadzone of 0.5, so left will be smaller than -0.5 and right will be greater than 0.5.

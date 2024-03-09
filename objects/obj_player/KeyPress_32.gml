@@ -19,5 +19,5 @@ if (grounded)
 	
 	// Play the jump sound with a random pitch
 	var _sound = audio_play_sound(snd_jump, 0, 0);
-	audio_sound_pitch(_sound, random_range(0.8, 1));
+	audio_sound_pitch(_sound, random_range(0.9, 1));
 }

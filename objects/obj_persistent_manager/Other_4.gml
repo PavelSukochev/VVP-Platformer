@@ -1,6 +1,4 @@
-// If we're in the end room
 if (room == rm_end)
 {
-	// Play music track with looping enabled
 	audio_play_sound(Svetit, 0, 1);
 }

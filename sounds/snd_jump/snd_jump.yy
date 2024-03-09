@@ -10,14 +10,14 @@
   "bitRate": 128,
   "compression": 0,
   "conversionMode": 0,
-  "duration": 0.624021,
+  "duration": 1.044898,
   "parent": {
     "name": "Player",
     "path": "folders/Sounds/SFX/Player.yy",
   },
   "preload": false,
   "sampleRate": 44100,
-  "soundFile": "snd_jump.wav",
+  "soundFile": "snd_jump.mp3",
   "type": 0,
-  "volume": 0.28,
+  "volume": 1.0,
 }

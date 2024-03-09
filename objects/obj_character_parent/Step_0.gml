@@ -1,8 +1,4 @@
-// The section below handles pixel-perfect collision checking.
-// It does collision checking twice, first on the X axis, and then on the Y axis.
-// On each axis, it moves the character pixel-by-pixel until its velocity for that axis is covered, or a collision is found.
-// 'move_count' is how many total pixels the character needs to move this frame. It is the absolute value of the velocity on an axis.
-// 'move_once' is the amount of pixels it needs to move once, before checking for a collision. It is 1, 0, or -1.
+event_perform(ev_mouse, ev_global_left_button); // НИЧЕГО НЕ ДАЛО ++FPS (а если вручную зажать любое пустое поле то ФПС++) TODO !!!
 var _move_count = abs(vel_x);
 var _move_once = sign(vel_x);
 

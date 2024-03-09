@@ -1,4 +1,4 @@
-depth=-999999999999999999999
+depth=-999999999
 	var _bw = browser_width;
 	var _bh = browser_height;
 
@@ -8,4 +8,3 @@ depth=-999999999999999999999
 	surface_resize(application_surface, view_wport[0], view_hport[0]);
 	
 	alarm[0]=1
-	f=0;
